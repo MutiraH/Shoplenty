@@ -1,0 +1,16 @@
+h1{
+    color: forestgreen;
+    background-color: beige;
+    text-align: center;
+    font-size: 80px;
+    line-height: 100px;
+    text-shadow: 12px 4px 12px yellowgreen;
+    font-style: italic;
+
+}
+
+h1:hover{
+    background-color: cadetblue;
+
+
+}
